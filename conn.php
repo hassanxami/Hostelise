@@ -1,4 +1,4 @@
-<?php
+<? php
  
 //MySQLi Procedural
 $conn = mysqli_connect("localhost","root","","hostel_management");
